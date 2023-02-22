@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is master
-=======
-hello world
->>>>>>> bracnch1
